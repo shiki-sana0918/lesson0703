@@ -1,0 +1,41 @@
+.signup {
+width: 100%;
+}
+	.signup__contents{
+	margin: 0 auto 0 auto;
+	padding-top:130;
+		width: 428px;
+		height:700px;
+		background-color: purple;
+	}
+
+		.signup__contents__title {
+			color :black;
+			font-size: 26px;
+			font-family: Inter;
+			font-weight: 700px;
+			text-align: center;
+		}
+	
+		.signup__contents__subtitle {
+			text-align: center;
+			
+
+		}
+		.signup__contents__input {
+			text-align: center;
+		}
+		.signup__contents__subtitle {
+			color: yellow;
+			text-align: center;
+			font-size: large;
+		}
+		
+	
+			.signup__contents__submit {
+				margin-top: 500px;
+				text-align: center;
+				
+			}
+		
+		

@@ -1,0 +1,30 @@
+.btn {
+	border: 0;
+	border-radius: 6px;
+	font-size: 16px;
+	padding: 6px 14px 8px 14px;
+	color: #fff;
+
+	&:hover {
+		opacity: 0.8;
+		cursor: pointer;
+	}
+
+	&.btn__primary {
+		color: #ffff;
+		background-color: #0d6efd;
+	}
+
+	&.btn__secondary {
+		color: #ffff;
+
+		background-color: #6c757d;
+	}
+
+	&.btn__success {
+		color: pink;
+
+
+		background-color: #198754;
+	}
+}
